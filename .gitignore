@@ -1,0 +1,18 @@
+# Archivos de entorno
+.env
+
+# Claves privadas de Firebase
+backend/config/serviceAccountKey.json
+
+# Dependencias de Node
+node_modules/
+
+# Archivos de logs o temporales
+logs/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+.vscode
